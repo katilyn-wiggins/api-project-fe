@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+label {
+  display: block;
+  padding: 10px;
+}
+
+input {
+  display: block;
+}
+
+form {
+  margin: 10px;
+}
+
+.plant-image {
+  width: 150px;
+}
+
+a {
+  margin: 10px;
+}
+
+.plant {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-color: lightgreen;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.plants {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}

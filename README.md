@@ -1,3 +1,7 @@
+stretch goals: figure out error handling for broken image links
+make button disable or ternery if favorite already exists
+make header work with token
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
